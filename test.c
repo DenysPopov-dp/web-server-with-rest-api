@@ -1,10 +1,4 @@
 // test.c
-
-// COMP 3010
-// INSTRUCTOR: Robert Guderian
-// NAME: Denys Popov
-// ASSIGNMENT: 2
-
 // PURPOSE: test for web_server.py. Tests the post and get methods of the server
 
 #include <stdio.h>
