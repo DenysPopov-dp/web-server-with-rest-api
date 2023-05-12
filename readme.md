@@ -15,7 +15,7 @@ Cookie: testCokieForRick
 
 Username: cTest
 Password: itsasecret
-Password: testCookieForcTest
+Cookie: testCookieForcTest
 
 ### **web_server.py | Server**
 - *To use - type the following in the command line :* `python web_server.py` or `python3 web_server.py`
